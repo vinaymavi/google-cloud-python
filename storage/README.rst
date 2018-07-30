@@ -1,7 +1,7 @@
 Python Client for Google Cloud Storage
 ======================================
 
-    Python idiomatic client for `Google Cloud Storage`_
+Python idiomatic client for `Google Cloud Storage`_
 
 .. _Google Cloud Storage: https://cloud.google.com/storage/docs
 
